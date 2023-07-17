@@ -6,7 +6,7 @@ from time import sleep
 from func import *
 
 
-API_TOKEN = '5221174647:AAHGn-adpDpbxaQk8QEvnlLUAbatlcCBL24'
+API_TOKEN = '5221174647:AAHvv04nW7t75Po1vSFDMYmnG11nPnsTZJo'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
